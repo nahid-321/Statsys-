@@ -1,0 +1,6 @@
+{
+  "name": "Statsys",
+  "description": "Offline desktop-grade statistical analysis application replicating SPSS and trtt.app with comprehensive statistical tests, data editor, variable view, syntax engine, and publication-ready charts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
